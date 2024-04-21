@@ -1,0 +1,4 @@
+<map id="TransformComponent" name="TransformComponent">
+<area shape="rect" id="node1" title="The transgorm component that can be added to gameobjects so they can move and change size." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node2" href="$structComponent.html" title="This struct represents a general component type that can be attached to a game object." alt="" coords="38,5,135,32"/>
+</map>
