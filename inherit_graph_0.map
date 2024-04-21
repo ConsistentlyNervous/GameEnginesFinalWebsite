@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structComponent.html" title="This struct represents a general component type that can be attached to a game object." alt="" coords="5,31,103,57"/>
+<area shape="rect" id="node2" href="$structTextureComponent.html" title="A component that holds onto a texture and manages the rendering process for a game object." alt="" coords="159,5,305,32"/>
+<area shape="rect" id="node3" href="$structTransformComponent.html" title="The transgorm component that can be added to gameobjects so they can move and change size." alt="" coords="151,56,313,83"/>
+</map>
